@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>Amazon milk frothertitle>
-    <link>https://dyn.keepa.com/v2/user/rss/?feed=1dncgt0bosakv6khr4s0k4eji7tc1jtv  </link>
-    <description>Amazon milk frother black and gold price tracker.</description>
+    <title>Your Custom RSS Feed</title>
+    <link>https://www.amazon.com/dp/B0BNF6YDSN/ref=redir_mobile_desktop?_encoding=UTF8&*Version*=1&*entries*=0&th=1</link>
+    <description>A custom RSS feed with a link to Keepa's RSS feed.</description>
     <language>en-us</language>
 
     <!-- Add your feed items here -->
-    
+    <item>
+        <title>Keepa RSS Feed</title>
+        <link>https://dyn.keepa.com/v2/user/rss/?feed=1dncgt0bosakv6khr4s0k4eji7tc1jtv</link>
+        <description>Keepa's RSS feed with your custom token.</description>
+        <pubDate>Date of publication, e.g., Mon, 08 Apr 2023 10:00:00 GMT</pubDate>
+        <guid>https://dyn.keepa.com/v2/user/rss/?feed=1dncgt0bosakv6khr4s0k4eji7tc1jtv</guid>
+    </item>
+
 </channel>
 </rss>
+
